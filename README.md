@@ -33,3 +33,15 @@ Platforms       : Shopify, BigCommerce, Magento, WordPress
 Frameworks      : React, Flask, TensorFlow, PyTorch  
 Dev Tools       : Git, Docker, VS Code, OpenCV  
 Hardware/IoT    : Jetson Nano, Raspberry Pi, ESP32, Arduino
+
+
+## 📫 Reach Me
+
+- 📧 Email: [aberam1995@gmail.com](mailto:aberam1995@gmail.com)  
+- 💼 LinkedIn: [Aberam](https://www.linkedin.com/in/aberam-wijayakumar-9173b262/)    
+- 💬 WhatsApp / Telegram: *Available upon request*
+
+---
+
+> ✨ *"Innovating at the intersection of intelligence and automation."*  
+> 💙 *Always open to collaboration and learning.*
